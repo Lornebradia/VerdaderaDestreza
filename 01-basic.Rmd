@@ -1,0 +1,16 @@
+# Basic concepts {#basic}
+
+TODO: 
+
+* The sword. 
+  + Parts of the sword. 
+  + Degrees of strength of the sword. 
+  + Grips of the sword. Uses. 
+  + Quillons. Positions. Uses. 
+  + Angles of the sword. 
+  + _Rectitudes_, or positions of the sword. 
+  + Movements of the sword. 
++ The body
+  + Lines in the body
+  + Regions in the body
+  + Stances. 
