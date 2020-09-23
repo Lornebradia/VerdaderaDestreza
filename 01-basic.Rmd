@@ -11,6 +11,8 @@ TODO:
   + _Rectitudes_, or positions of the sword. 
   + Movements of the sword. 
 + The body
-  + Lines in the body
-  + Regions in the body
-  + Stances. 
+  + Lines in the body.
+  + Regions in the body.
+  + Stances.
+ + Planes, diameters, distance
+ 
