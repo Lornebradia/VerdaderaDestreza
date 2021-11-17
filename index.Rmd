@@ -8,7 +8,6 @@ bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
 description: "This are a set of notes around the Spanish fencing system known as 'La Verdadera Destreza'"
-output: html_document
 ---
 
 # Intro

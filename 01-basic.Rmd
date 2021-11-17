@@ -14,3 +14,5 @@ TODO:
   + Lines in the body
   + Regions in the body
   + Stances. 
+  
+![](img/rapier.png)
